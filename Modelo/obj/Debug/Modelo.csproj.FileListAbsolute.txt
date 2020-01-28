@@ -1,0 +1,12 @@
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Modelo\bin\Debug\Modelo.dll.config
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Modelo\bin\Debug\Modelo.dll
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Modelo\bin\Debug\Modelo.pdb
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Modelo\bin\Debug\EntityFramework.dll
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Modelo\bin\Debug\EntityFramework.xml
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Modelo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Modelo\obj\Debug\Modelo.dll
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Modelo\obj\Debug\Modelo.pdb

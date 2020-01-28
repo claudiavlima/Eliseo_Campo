@@ -1,0 +1,142 @@
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred\Autocred\bin\Debug\Autocred.exe.config
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred\Autocred\bin\Debug\Autocred.exe
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred\Autocred\bin\Debug\Autocred.pdb
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred\Autocred\obj\Debug\Autocred.csprojResolveAssemblyReference.cache
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred\Autocred\obj\Debug\Autocred.Form_Princ.resources
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred\Autocred\obj\Debug\Autocred.Lista_Ordenes.resources
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred\Autocred\obj\Debug\Autocred.New_Item.resources
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred\Autocred\obj\Debug\Autocred.New_Orden.resources
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred\Autocred\obj\Debug\Autocred.Properties.Resources.resources
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred\Autocred\obj\Debug\Autocred.Proveedores.resources
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred\Autocred\obj\Debug\Autocred.Requerimientos.resources
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred\Autocred\obj\Debug\Autocred.csproj.GenerateResource.Cache
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred\Autocred\obj\Debug\Autocred.exe
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred\Autocred\obj\Debug\Autocred.pdb
+C:\Users\navegador\Desktop\Autocred\Autocred\bin\Debug\Autocred.exe.config
+C:\Users\navegador\Desktop\Autocred\Autocred\obj\Debug\Autocred.exe
+C:\Users\navegador\Desktop\Autocred\Autocred\obj\Debug\Autocred.pdb
+C:\Users\navegador\Desktop\Autocred\Autocred\bin\Debug\Autocred.exe
+C:\Users\navegador\Desktop\Autocred\Autocred\bin\Debug\Autocred.pdb
+C:\Users\navegador\Desktop\Autocred\Autocred\bin\Debug\Controladora.dll
+C:\Users\navegador\Desktop\Autocred\Autocred\bin\Debug\Modelo.dll
+C:\Users\navegador\Desktop\Autocred\Autocred\bin\Debug\Controladora.pdb
+C:\Users\navegador\Desktop\Autocred\Autocred\bin\Debug\Modelo.pdb
+C:\Users\navegador\Desktop\Autocred\Autocred\obj\Debug\Autocred.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\Autocred\Autocred\obj\Debug\Autocred.Form_Princ.resources
+C:\Users\navegador\Desktop\Autocred\Autocred\obj\Debug\Autocred.Lista_Ordenes.resources
+C:\Users\navegador\Desktop\Autocred\Autocred\obj\Debug\Autocred.New_Item.resources
+C:\Users\navegador\Desktop\Autocred\Autocred\obj\Debug\Autocred.New_Orden.resources
+C:\Users\navegador\Desktop\Autocred\Autocred\obj\Debug\Autocred.Properties.Resources.resources
+C:\Users\navegador\Desktop\Autocred\Autocred\obj\Debug\Autocred.Proveedores.resources
+C:\Users\navegador\Desktop\Autocred\Autocred\obj\Debug\Autocred.Requerimientos.resources
+C:\Users\navegador\Desktop\Autocred\Autocred\obj\Debug\Autocred.csproj.GenerateResource.Cache
+C:\Users\navegador\Desktop\Autocred\Autocred\obj\Debug\Autocred.Articulos.resources
+C:\Users\navegador\Desktop\Autocred\Autocred\bin\Debug\EntityFramework.dll
+C:\Users\navegador\Desktop\Autocred\Autocred\bin\Debug\EntityFramework.xml
+E:\Autocred\Autocred\bin\Debug\Autocred.exe.config
+E:\Autocred\Autocred\obj\Debug\Autocred.exe
+E:\Autocred\Autocred\obj\Debug\Autocred.pdb
+E:\Autocred\Autocred\bin\Debug\Autocred.exe
+E:\Autocred\Autocred\bin\Debug\Autocred.pdb
+E:\Autocred\Autocred\bin\Debug\Controladora.dll
+E:\Autocred\Autocred\bin\Debug\Modelo.dll
+E:\Autocred\Autocred\bin\Debug\Controladora.pdb
+E:\Autocred\Autocred\bin\Debug\Modelo.pdb
+E:\Autocred\Autocred\obj\Debug\Autocred.csprojResolveAssemblyReference.cache
+E:\Autocred\Autocred\obj\Debug\Autocred.Articulos.resources
+E:\Autocred\Autocred\obj\Debug\Autocred.Form_Princ.resources
+E:\Autocred\Autocred\obj\Debug\Autocred.Lista_Ordenes.resources
+E:\Autocred\Autocred\obj\Debug\Autocred.New_Item.resources
+E:\Autocred\Autocred\obj\Debug\Autocred.New_Orden.resources
+E:\Autocred\Autocred\obj\Debug\Autocred.Properties.Resources.resources
+E:\Autocred\Autocred\obj\Debug\Autocred.Proveedores.resources
+E:\Autocred\Autocred\obj\Debug\Autocred.Requerimientos.resources
+E:\Autocred\Autocred\obj\Debug\Autocred.csproj.GenerateResource.Cache
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred\Autocred\bin\Debug\Controladora.dll
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred\Autocred\bin\Debug\Controladora.pdb
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred\Autocred\obj\Debug\Autocred.Articulos.resources
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred - copia\Autocred\bin\Debug\Autocred.exe.config
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred - copia\Autocred\obj\Debug\Autocred.exe
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred - copia\Autocred\obj\Debug\Autocred.pdb
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred - copia\Autocred\bin\Debug\Autocred.exe
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred - copia\Autocred\bin\Debug\Autocred.pdb
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred - copia\Autocred\obj\Debug\Autocred.csprojResolveAssemblyReference.cache
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred - copia\Autocred\obj\Debug\Autocred.Articulos.resources
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred - copia\Autocred\obj\Debug\Autocred.Form_Princ.resources
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred - copia\Autocred\obj\Debug\Autocred.Lista_Ordenes.resources
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred - copia\Autocred\obj\Debug\Autocred.New_Item.resources
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred - copia\Autocred\obj\Debug\Autocred.New_Orden.resources
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred - copia\Autocred\obj\Debug\Autocred.Properties.Resources.resources
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred - copia\Autocred\obj\Debug\Autocred.Proveedores.resources
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred - copia\Autocred\obj\Debug\Autocred.Requerimientos.resources
+C:\Users\Eliseo E. Ruiz Diaz\Desktop\Autocred - copia\Autocred\obj\Debug\Autocred.csproj.GenerateResource.Cache
+C:\Users\navegador\Desktop\Autocred - copia\Autocred\bin\Debug\Autocred.exe.config
+C:\Users\navegador\Desktop\Autocred - copia\Autocred\obj\Debug\Autocred.exe
+C:\Users\navegador\Desktop\Autocred - copia\Autocred\obj\Debug\Autocred.pdb
+C:\Users\navegador\Desktop\Autocred0603\Autocred\obj\Debug\Autocred.exe
+C:\Users\navegador\Desktop\Autocred0603\Autocred\obj\Debug\Autocred.pdb
+C:\Users\navegador\Desktop\Autocred0603\Autocred\bin\Debug\Autocred.exe
+C:\Users\navegador\Desktop\Autocred0603\Autocred\bin\Debug\Autocred.pdb
+C:\Users\navegador\Desktop\Autocred0603\Autocred\obj\Debug\Autocred.Form_Princ.resources
+C:\Users\navegador\Desktop\Autocred0603\Autocred\obj\Debug\Autocred.Lista_Ordenes.resources
+C:\Users\navegador\Desktop\Autocred0603\Autocred\obj\Debug\Autocred.New_Item.resources
+C:\Users\navegador\Desktop\Autocred0603\Autocred\obj\Debug\Autocred.New_Orden.resources
+C:\Users\navegador\Desktop\Autocred0603\Autocred\obj\Debug\Autocred.Properties.Resources.resources
+C:\Users\navegador\Desktop\Autocred0603\Autocred\obj\Debug\Autocred.Proveedores.resources
+C:\Users\navegador\Desktop\Autocred0603\Autocred\obj\Debug\Autocred.csproj.GenerateResource.Cache
+E:\Autocred0603\Autocred\obj\Debug\Autocred.exe
+E:\Autocred0603\Autocred\obj\Debug\Autocred.pdb
+E:\Autocred0603\Autocred\bin\Debug\Autocred.exe
+E:\Autocred0603\Autocred\bin\Debug\Autocred.pdb
+E:\Autocred0603\Autocred\obj\Debug\Autocred.csprojResolveAssemblyReference.cache
+E:\Autocred0603\Autocred\obj\Debug\Autocred.Articulos.resources
+E:\Autocred0603\Autocred\obj\Debug\Autocred.Form_Princ.resources
+E:\Autocred0603\Autocred\obj\Debug\Autocred.Lista_Ordenes.resources
+E:\Autocred0603\Autocred\obj\Debug\Autocred.New_Item.resources
+E:\Autocred0603\Autocred\obj\Debug\Autocred.New_Orden.resources
+E:\Autocred0603\Autocred\obj\Debug\Autocred.Properties.Resources.resources
+E:\Autocred0603\Autocred\obj\Debug\Autocred.Proveedores.resources
+E:\Autocred0603\Autocred\obj\Debug\Autocred.Requerimientos.resources
+E:\Autocred0603\Autocred\obj\Debug\Autocred.csproj.GenerateResource.Cache
+C:\Users\navegador\Desktop\Autocred0603\Autocred\bin\Debug\EntityFramework.dll
+C:\Users\navegador\Desktop\Autocred0603\Autocred\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\navegador\Desktop\Autocred0603\Autocred\bin\Debug\EntityFramework.xml
+C:\Users\navegador\Desktop\Autocred0603\Autocred\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\navegador\Desktop\Autocred0603\Autocred\bin\Debug\Autocred.exe.config
+C:\Users\navegador\Desktop\Autocred0603\Autocred\obj\Debug\Autocred.Articulos.resources
+C:\Users\navegador\Desktop\Autocred0603\Autocred\obj\Debug\Autocred.Requerimientos.resources
+E:\Autocred0603\Autocred\bin\Debug\Autocred.exe.config
+E:\Autocred0603\Autocred\bin\Debug\EntityFramework.dll
+E:\Autocred0603\Autocred\bin\Debug\EntityFramework.SqlServer.dll
+E:\Autocred0603\Autocred\bin\Debug\EntityFramework.xml
+E:\Autocred0603\Autocred\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Navegador\Desktop\Autocred0603\Autocred\obj\Debug\Autocred.csprojAssemblyReference.cache
+C:\Users\Navegador\Desktop\Autocred0603\Autocred\obj\Debug\Autocred.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\Desktop\Autocred0603\Autocred\obj\Debug\Autocred.csproj.CopyComplete
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\bin\Debug\Autocred.exe.config
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\bin\Debug\Autocred.exe
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\bin\Debug\Autocred.pdb
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\bin\Debug\EntityFramework.dll
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\bin\Debug\EntityFramework.xml
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\obj\Debug\Autocred.csprojAssemblyReference.cache
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\obj\Debug\Autocred.Articulos.resources
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\obj\Debug\Autocred.Form_Princ.resources
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\obj\Debug\Autocred.Lista_Ordenes.resources
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\obj\Debug\Autocred.New_Item.resources
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\obj\Debug\Autocred.New_Orden.resources
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\obj\Debug\Autocred.Properties.Resources.resources
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\obj\Debug\Autocred.Proveedores.resources
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\obj\Debug\Autocred.Requerimientos.resources
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\obj\Debug\Autocred.csproj.GenerateResource.cache
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\obj\Debug\Autocred.csproj.CoreCompileInputs.cache
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\obj\Debug\Autocred.csproj.CopyComplete
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\obj\Debug\Autocred.exe
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\obj\Debug\Autocred.pdb
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\bin\Debug\Controladora.dll
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\bin\Debug\Modelo.dll
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\bin\Debug\Controladora.pdb
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\bin\Debug\Controladora.dll.config
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\bin\Debug\Modelo.pdb
+C:\Users\limac\Documents\FACULTAD\Eliseo - Campo y Diploma\Autocred0603\Autocred\bin\Debug\Modelo.dll.config
